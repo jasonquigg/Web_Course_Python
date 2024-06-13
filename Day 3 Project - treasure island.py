@@ -13,8 +13,7 @@ if left_right == "left":
         which_door = which_door.lower()
 
         if which_door == "red":
-            print(
-                "You walked into a room with oxygen tanks and tried to light a torch??? BOOM YOUR DEAD.. - GAME OVER!")
+            print("You walked into a room with oxygen tanks and tried to light a torch??? BOOM YOUR DEAD.. - GAME OVER!")
         if which_door == "blue":
             print("CONGRATS, You found FLUFFY... But unfortunately he was hungry, Your dead. = GAME OVER!")
         if which_door == "yellow":
